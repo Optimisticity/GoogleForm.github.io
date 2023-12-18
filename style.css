@@ -1,0 +1,32 @@
+.honey {
+    margin-top: 15vh;
+    border-radius: 5%;
+    height: 540px;
+    width: 480px;
+    background-color: white;
+    border-style: outset;
+}
+img{
+    margin-top: 5%;
+}
+.input_for_email{
+    border-color: white;
+    color: lightgray;
+    width: 300px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2%;
+}
+.heading3{
+    margin-left: 0px;
+    color: gray;
+}
+.submit_button{
+    background-color: blue;
+    color: aliceblue;
+    height: 30px;
+    width: 70px;
+    border-radius: 5%;
+    border-style: ridge;
+    border-color: blue;
+}
